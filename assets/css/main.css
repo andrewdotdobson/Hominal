@@ -3553,7 +3553,7 @@
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 1100px) {
 
 		/* Basic */
 
@@ -3639,7 +3639,7 @@
 		display: none;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 1100px) {
 
 		/* Basic */
 
