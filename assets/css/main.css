@@ -1579,12 +1579,12 @@
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #b2654b;
+		color: #ccc;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #b2654b !important;
+			color: #ffffff !important;
 			border-bottom-color: transparent;
 		}
 
@@ -2969,7 +2969,7 @@
 			opacity: 1;
 			position: absolute;
 		}
-		
+
 		.spotlight .content header h2 {
 			margin:0 0 0.7em 0;
 		}
@@ -3144,7 +3144,7 @@
 				.wrapper.style2 .button.special:active {
 					background-color: rgba(255, 255, 255, 0.25) !important;
 				}
-		
+
 		.wrapper.style3 {
 			background-color: #80959A;
 		}
@@ -3267,7 +3267,7 @@
 	#page-wrapper {
 		padding-top: 3.5em;
 	}
-	
+
 	#logo {
 
 	}
@@ -3296,7 +3296,7 @@
 
 		#logo a img {
 			margin-top: 17px;
-		} 
+		}
 
 		#header nav {
 			position: absolute;
